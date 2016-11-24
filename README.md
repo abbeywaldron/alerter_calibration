@@ -5,7 +5,7 @@
 
 ### Input data format
 
-Tweets should exclude retweets.  At least one month of data is typically needed as rates are often low.  Format of data files expected is multiple lines with our of day and tweet count in 10 minute intervals:
+Tweets should exclude retweets.  At least one month of data is typically needed as rates are often low.  Format of data files expected is multiple lines with hour of day and tweet count in 10 minute intervals:
 
 ```
 hour tweet_count
