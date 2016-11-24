@@ -1,0 +1,6 @@
+# alerter calibration
+
+
+Tweets should exclude retweets.  At least one month of data is typically needed as rates are often low.
+
+<hour> <tweet count>
